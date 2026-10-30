@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "مدير حساباتي",
+    "slug": "account-manager-pro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yosef.accountmanagerpro"
+    },
+    "android": {
+      "package": "com.yosef.accountmanagerpro"
+    },
+    "plugins": [
+      "expo-secure-store",
+      "expo-sqlite"
+    ]
+  }
+}
